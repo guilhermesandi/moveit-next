@@ -93,6 +93,8 @@
 
   font-size: 1rem;
   font-weight: 600;
+
+  transition: filter 0.2s;
 }
 
 .challengeActive footer button.challengeFailedButton {
@@ -101,4 +103,8 @@
 
 .challengeActive footer button.challengeSucceededButton {
   background: var(--green);
+}
+
+.challengeActive footer button:hover {
+  filter: brightness(0.9);
 }
