@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Move.it" title="Move.it" src="./github/logo.svg" />
+    <img alt="Move.it" title="Move.it" src=".github/logo.svg" />
 </p>
 
 <h1 align="center">Next Level Week #4</h1>
